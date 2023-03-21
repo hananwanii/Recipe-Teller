@@ -18,7 +18,3 @@ You Can Browse Foods By
 
 ## Demo
 You can view this app on this: https://recipe-teller.netlify.app
-
-## Source
-
-This Site is Inspired from Youtube Tutorial By [Florin Pop](https://www.youtube.com/watch?v=dtKciwk_si4).
